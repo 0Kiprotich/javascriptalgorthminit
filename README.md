@@ -8,12 +8,7 @@ JavaScript Repository of TheAlgorithms, which implements various algorithms and 
 
 [![JavaScript Banner][banner]](DIRECTORY.md)
 
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/TheAlgorithms/JavaScript)
-[![Checks][checks]][actions]
-[![codecov](https://codecov.io/gh/TheAlgorithms/JavaScript/graph/badge.svg?token=8VeZwL31KZ)](https://codecov.io/gh/TheAlgorithms/JavaScript)
-[![Contributions Welcome][welcome]](CONTRIBUTING.md)
-[![standard.js][standard-logo]][standard-js]
-[![Discord chat][chat]][discord-server]
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/0Kiprotich/javascriptalgorthminit)
 
 </div>
 
@@ -50,13 +45,13 @@ many of the algorithms can be found in the [wiki][explanation].
 [standard-logo]: https://img.shields.io/badge/code%20style-standardjs-%23f3df49
 [chat]: https://img.shields.io/discord/808045925556682782.svg?logo=discord&colorB=7289DA
 [welcome]: https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3
-[checks]: https://img.shields.io/github/actions/workflow/status/TheAlgorithms/JavaScript/Ci.yml?branch=master&label=checks
+[checks]: https://img.shields.io/github/actions/workflow/status/0Kiprotich/javascriptalgorthminit/Ci.yml?branch=master&label=checks
 
 <!-- External Links -->
 
 [standard-js]: https://standardjs.com/
-[discord-server]: https://the-algorithms.com/discord/
-[actions]: https://github.com/TheAlgorithms/JavaScript/actions
+[discord-server]: https://discord.com/discord/
+[actions]: https://github.com/0Kiprotich/javascriptalgorthminit/actions
 [explanation]: https://github.com/TheAlgorithms/JavaScript/wiki
 [repositories]: https://github.com/orgs/TheAlgorithms/repositories
 [help-wanted]: https://github.com/TheAlgorithms/JavaScript/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22
