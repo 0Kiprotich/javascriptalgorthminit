@@ -2,9 +2,9 @@
 
 ## Before contributing
 
-Welcome to [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript)! Before sending your pull requests,
+Welcome to [TheAlgorithms/JavaScript](https://github.com/0Kiprotich/javascriptalgorthminit)! Before sending your pull requests,
 make sure that you **read the whole guidelines**. If you have any doubts about the contributing guide, please feel free to
-[state them clearly in an issue](https://github.com/TheAlgorithms/JavaScript/issues/new) or by joining our [Discord community](https://the-algorithms.com/discord).
+[state them clearly in an issue](https://github.com/0Kiprotich/javascriptalgorthminit/issues/new) or by joining our [Discord community](https://discord.com/discord).
 
 ## Contributing
 
@@ -15,7 +15,7 @@ referenced and used by learners from around the globe. Being one of our contribu
 
 - You did your work - plagiarism is not allowed.
   - Any plagiarized work will not be merged.
-- Your work will be distributed under the [GNU GPLv3.0](https://github.com/TheAlgorithms/JavaScript/blob/master/LICENSE) once your pull request is merged.
+- Your work will be distributed under the [GNU GPLv3.0](https://github.com/0Kiprotich/javascriptalgorthminit/blob/master/LICENSE) once your pull request is merged.
 - Your submitted work must fulfill our styles and standards.
 
 **New implementations** are welcome! For example, new solutions to a problem, different representations of a graph data
@@ -167,4 +167,4 @@ function sumOfArray(arrayOfNumbers) {
   - **Be consistent in the use of these guidelines when submitting.**
   - Happy coding!
 
-Writer [@itsvinayak](https://github.com/itsvinayak) and contributors, May 2020.
+Writer [@itsvinayak](https://github.com/0Kiprotich) and contributors, May 2020.
